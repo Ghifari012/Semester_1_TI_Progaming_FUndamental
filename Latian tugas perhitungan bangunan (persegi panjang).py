@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
 """ Sistem Penilaian Sebuah Persegi Panjang """
 
 """Deklarasi Variabel"""
