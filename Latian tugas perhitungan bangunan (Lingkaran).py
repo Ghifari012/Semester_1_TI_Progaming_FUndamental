@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 22 21:52:01 2022
-
-@author: ASUS
-"""
-
 "Sistem Penilaian Sebuah Bangunan Lingkaran"
 
 """Deklarasi Variabel"""
